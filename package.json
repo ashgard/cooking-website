@@ -1,9 +1,9 @@
 {
   "name": "cooking-website",
   "private": true,
-  "version": "0.0.1",
-  "description": "Gerdien's website about healthy cooking",
-  "repository": "https://github.com/ashgard/cooking-website",
+  "version": "0.0.0",
+  "description": "gerdien's website about healthy cooking",
+  "repository": "https://github.com/ashgard/cooking",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
