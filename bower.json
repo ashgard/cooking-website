@@ -1,8 +1,8 @@
 {
-  "name": "Cooking",
+  "name": "cooking-website",
   "description": "Gerdien's website about healthy cooking",
   "version": "0.0.1",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/ashgard/cooking-website",
   "license": "MIT",
   "private": true,
   "dependencies": {
